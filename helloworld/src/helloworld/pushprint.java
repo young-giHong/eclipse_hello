@@ -5,5 +5,6 @@ public class pushprint {
 		System.out.println("Add Java Class File Push");
 		System.out.println("world with armugae");
 		System.out.println("world with 365");
+		System.out.println("world with github");
 	}
 }
